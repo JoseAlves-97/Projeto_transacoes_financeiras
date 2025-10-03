@@ -1,4 +1,4 @@
-Projeto Final - SQL 🚀
+Projeto Final - SQL
 
 Descrição
 Este projeto consolida transações financeiras (PIX, transferências de entrada e saída) em uma única tabela chamada **`total_transfers`**.  
@@ -57,14 +57,11 @@ Tabela consolidada **`curso-sql-eba-471019.Projeto_Final.total_transfers`**, com
 | date_completed   | Data da conclusão da transação              |
 | month            | Mês de referência (extraído da data)        |
 
----
 
-## 🚀 Como Usar
+Como Usar
 1. Abra o **BigQuery**.  
 2. Copie o conteúdo de `total_transfers.sql`.  
 3. Execute o script para criar/atualizar a tabela **`total_transfers`**.  
 
----
-
-👨‍💻 Autor: Jose Alves Pedrosa Filho 
-📅 Projeto desenvolvido como exercício final do curso de SQL EBA Analista 
+Autor: Jose Alves Pedrosa Filho 
+Projeto desenvolvido como exercício final do curso de SQL EBA Analista 
